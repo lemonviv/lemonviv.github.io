@@ -8,6 +8,8 @@ I am currently an associate professor at [School of Information](http://info.ruc
 
 I obtained my PhD degree in Computer Science from Renmin University of China (RUC) in 2018, under the supervision of [Prof. Hong Chen](http://info.ruc.edu.cn/academic_professor.php?teacher_id=56). I was a visiting PhD student in Simon Fraser University (SFU), supervised by [Prof. Ke Wang](https://www.cs.sfu.ca/~wangk/). I received my Master's degree from Nanjing University of Science and Technology (NJUST), advised by [Prof. Yongli Wang](https://cs.njust.edu.cn/e4/15/c1730a189461/page.htm), and Bachelor's degree from Southwest University of Science and Technology (SWUST). I also worked in Ant Financial as a senior developer and 724 Research Institute of China Shipbuilding Industry Corporation as a software engineer. 
 
+<span style="color:red">I am looking for highly motivated students to work with me. Please drop me an email if you are interested.</span>
+
 ## Research Interests
 
 - **Data Collaboration:** federated learning, data security and privacy, incentive mechanism
@@ -15,9 +17,9 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## News
 
-- **[Jan. 2024]** I join Renmin University of China as an associate professor.
-- **[Dec. 2023]** Our paper about data distribution leakage in federated learning is accepted by IEEE TKDE.
-- **[Oct. 2023]** Our paper about protecting label distribution in federated learning is accepted by IEEE S&P 2024.
+- **[Jan. 2024]** I join the School of Information at Renmin University of China as an associate professor.
+- **[Dec. 2023]** Our paper about data distribution leakage in cross-silo federated learning is accepted by IEEE TKDE.
+- **[Oct. 2023]** Our paper about protecting label distribution in cross-silo federated learning is accepted by IEEE S&P 2024.
 - **[Oct. 2023]** Our paper about cost-aware caching framework for cloud databases is accepted by IEEE ICDE 2024.
 
 {% include_relative _includes/publications.md %}

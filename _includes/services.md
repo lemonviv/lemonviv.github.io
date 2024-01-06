@@ -1,16 +1,28 @@
 ## Services
-
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Services</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor>Demonstration Co-chair of VLDB 2024</autocolor></a></li>
+  <li><autocolor>Workshop Co-chair of BigComp 2023</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Conference PC Members</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>2024: VLDB</autocolor></a></li>
+  <li><autocolor>2023: VLDB, ICDE, EDBT</autocolor></a></li>
+  <li><autocolor>2022: VLDB, ICDE</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Journal of Computer Science and Technology (JCST)</autocolor></a></li>
+  <li><autocolor>Transactions on Big Data (TBD)</autocolor></a></li>
+  <li><autocolor>Transactions on Information Forensics & Security (TIFS)</autocolor></a></li>
+  <li><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
+  <li><autocolor>ACM Transactions on Data Science (TDS)</autocolor></a></li>  
+  <li><autocolor>IEEE Network</autocolor></a></li>
+  <li><autocolor>Big Data Research</autocolor></a></li>
+  <li><autocolor>Chinese Journal of Computers (CJC)</autocolor></a></li>    
 </ul>

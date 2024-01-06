@@ -1,12 +1,87 @@
 main:
 
-  - title: Protecting Label Distribution in Cross-Silo Federated Learning
+  - title: "Protecting Label Distribution in Cross-Silo Federated Learning"
     authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi
-    conference: IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, 2024.
+    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2024.
     notes: Accepted
 
+  - title: "LBSC: A Cost-aware Caching Framework for Cloud Databases"
+    authors: Zhaoxuan Ji, Zhongle Xie, <strong>Yuncheng Wu</strong>, Meihui Zhang
+    conference: Proceedings of the IEEE International Conference on Data Engineering <strong>ICDE</strong>, 2024.
+    notes: Accepted    
+
+  - title: "On Data Distribution Leakage in Cross-Silo Federated Learning"
+    authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaochen Zhu, Xiaokui Xiao, Beng Chin Ooi
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>TKDE</strong>, 2024.
+    notes: Accepted 
+    
   - title: "Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System"
     authors: <strong>Yuncheng Wu</strong>, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2023.
-    pdf: https://dl.acm.org/doi/abs/10.14778/3603581.3603588#:~:text=In%20this%20paper%2C%20we%20propose,%2C%20and%20multi%2Dlayer%20perceptron.
-    code: https://github.com/nusdbsystem/falcon
+    pdf: https://www.vldb.org/pvldb/vol16/p2471-ooi.pdf
+
+  - title: "MINT: Detecting Fraudulent Behaviors from Time-series Relational Data"
+    authors: Fei Xiao, <strong>Yuncheng Wu*<\strong>, Meihui Zhang, Gang Chen, Beng Chin Ooi (* denotes corresponding author)
+    conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2023.
+    pdf: https://www.vldb.org/pvldb/vol16/p3610-xiao.pdf
+
+  - title: "Incentive-Aware Decentralized Data Collaboration"
+    authors: Yatong Wang, <strong>Yuncheng Wu*<\strong>, Xincheng Chen, Gang Feng, Beng Chin Ooi (* denotes corresponding author)
+    conference: ACM Special Interest Group in Management Of Data <strong>(SIGMOD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3589303
+
+  - title: "FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data"
+    authors: Rui Fu, <strong>Yuncheng Wu</strong>, Quanqing Xu, Meihui Zhang
+    conference: ACM Special Interest Group in Management Of Data <strong>(SIGMOD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3588961
+    
+  - title: "LuxGeo: Efficient and Secure Enhanced Geometric Range Queries"
+    authors: Ruoyang Guo, Bo Qin, <strong>Yuncheng Wu</strong>, Ruixuan Liu, Hong Chen, Cuiping Li
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/9477110
+
+  - title: "Serverless Data Science - Are We There Yet? A Case Study of Model Serving"
+    authors: <strong>Yuncheng Wu<\strong>, Tien Tuan Anh Dinh, Guoyu Hu, Meihui Zhang, Yeow Meng Chee, Beng Chin Ooi
+    conference: ACM Special Interest Group in Management Of Data <strong>(SIGMOD)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2103.02958.pdf
+
+  - title: "A Fusion-Denoising Attack on InstaHide with Data Augmentation"
+    authors: Xinjian Luo, Xiaokui Xiao, <strong>Yuncheng Wu<\strong>, Juncheng Liu, Beng Chin Ooi
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2105.07754.pdf
+
+  - title: "Feature inference attack on model predictions in vertical federated learning"
+    authors: Xinjian Luo, <strong>Yuncheng Wu*<\strong>, Xiaokui Xiao, Beng Chin Ooi (* denotes corresponding author)
+    conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2010.10152.pdf
+
+  - title: "Communication-efficient decentralized machine learning over heterogeneous networks"
+    authors: Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, <strong>Yuncheng Wu<\strong>, Hongfang Yu
+    conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2009.05766.pdf
+
+  - title: "Enhanced privacy preserving group nearest neighbor search"
+    authors: <strong>Yuncheng Wu<\strong>, Ke Wang, Ruoyang Guo, Zhilin Zhang, Dan Zhao, Hong Chen, Cuiping Li
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/8770158   
+
+  - title: "Privacy preserving vertical federated learning for tree-based models"
+    authors: <strong>Yuncheng Wu<\strong>, Shaofeng Cai, Xiaokui Xiao, Gang Chen, Beng Chin Ooi
+    conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2020.
+    pdf: http://www.vldb.org/pvldb/vol13/p2090-wu.pdf
+
+  - title: "A Pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations"
+    authors: Wenjuan Liang, Hong Chen, Ruixuan Liu, <strong>Yuncheng Wu<\strong>, Cuiping Li
+    conference: Computers & Security, 2020.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0167404820300389
+    
+  - title: "MixGeo: efficient secure range queries on encrypted dense spatial data in the cloud"
+    authors: Ruoyang Guo, Bo Qin, <strong>Yuncheng Wu<\strong>, Ruixuan Liu, Hong Chen, Cuiping Li
+    conference: IEEE/ACM International Symposium on Quality of Service <strong>(IWQoS)</strong>, 2019.
+    pdf: https://dl.acm.org/doi/10.1145/3326285.3329064
+    
+  - title: "Privacy preserving group nearest neighbor search"
+    authors: <strong>Yuncheng Wu<\strong>, Ke Wang, Zhilin Zhang, Weipeng Lin, Hong Chen, Cuiping Li
+    conference: International Conference on Extending Database Technology <strong>(EDBT)</strong>, 2018.
+    pdf: https://openproceedings.org/2018/conf/edbt/paper-103.pdf
+

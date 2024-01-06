@@ -24,4 +24,8 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/patents.md %}
+
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/talks.md %}

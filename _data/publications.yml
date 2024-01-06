@@ -2,13 +2,11 @@ main:
 
   - title: Protecting Label Distribution in Cross-Silo Federated Learning
     authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi
-    conference_short: S&P
     conference: IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, 2024.
     notes: Accepted
 
   - title: "Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System"
     authors: <strong>Yuncheng Wu</strong>, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang
-    conference_short: PVLDB
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2023.
     pdf: https://dl.acm.org/doi/abs/10.14778/3603581.3603588#:~:text=In%20this%20paper%2C%20we%20propose,%2C%20and%20multi%2Dlayer%20perceptron.
     code: https://github.com/nusdbsystem/falcon

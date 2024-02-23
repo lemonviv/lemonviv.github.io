@@ -9,7 +9,8 @@
 <h4 style="margin:0 10px 0;">Conference PC Members</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>2024: VLDB</autocolor></li>
+  <li><autocolor>2025: VLDB</autocolor></li>
+  <li><autocolor>2024: VLDB, ICDE</autocolor></li>
   <li><autocolor>2023: VLDB, ICDE, EDBT</autocolor></li>
   <li><autocolor>2022: VLDB, ICDE</autocolor></li>
 </ul>

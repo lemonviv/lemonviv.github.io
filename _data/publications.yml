@@ -1,19 +1,24 @@
 main:
 
-  - title: "Protecting Label Distribution in Cross-Silo Federated Learning"
-    authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi
-    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2024.
-    notes: Accepted
+  - title: "Applications and Challenges for Large Language Models: From Data Management Perspective"
+    authors: Meihui Zhang, Zhaoxuan Ji, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Chengliang Chai
+    conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
+    notes: Accepted  
 
   - title: "LBSC: A Cost-aware Caching Framework for Cloud Databases"
     authors: Zhaoxuan Ji, Zhongle Xie, <strong>Yuncheng Wu</strong>, Meihui Zhang
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
-    notes: Accepted    
+    notes: Accepted   
+    
+  - title: "Protecting Label Distribution in Cross-Silo Federated Learning"
+    authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi
+    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2024.
+    pdf: https://www.computer.org/csdl/proceedings-article/sp/2024/313000a113/1Ub23mqt0hG 
 
   - title: "On Data Distribution Leakage in Cross-Silo Federated Learning"
     authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaochen Zhu, Xiaokui Xiao, Beng Chin Ooi
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2024.
-    notes: Accepted 
+    pdf: https://www.computer.org/csdl/journal/tk/5555/01/10380460/1TpynvF74A0 
     
   - title: "Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System"
     authors: <strong>Yuncheng Wu</strong>, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang

@@ -17,6 +17,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## News
 
+- **[Feb. 2024]** Our vision paper about large language models from data management perspective is accepted by IEEE ICDE 2024.
 - **[Jan. 2024]** I join the School of Information at Renmin University of China as an associate professor.
 - **[Dec. 2023]** Our paper about data distribution leakage in cross-silo federated learning is accepted by IEEE TKDE.
 - **[Oct. 2023]** Our paper about protecting label distribution in cross-silo federated learning is accepted by IEEE S&P 2024.

@@ -1,5 +1,10 @@
 main:
 
+  - title: "Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs"
+    authors: Yizheng Zhu, Yuncheng Wu, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao
+    conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2024.
+    notes: Accepted
+
   - title: "Applications and Challenges for Large Language Models: From Data Management Perspective"
     authors: Meihui Zhang, Zhaoxuan Ji, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Chengliang Chai
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
@@ -8,7 +13,7 @@ main:
   - title: "LBSC: A Cost-aware Caching Framework for Cloud Databases"
     authors: Zhaoxuan Ji, Zhongle Xie, <strong>Yuncheng Wu</strong>, Meihui Zhang
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
-    notes: Accepted   
+    notes: Accepted (Best Runner Up Paper Award)
     
   - title: "Protecting Label Distribution in Cross-Silo Federated Learning"
     authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi

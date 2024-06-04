@@ -1,7 +1,7 @@
 main:
 
   - title: "Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs"
-    authors: Yizheng Zhu, Yuncheng Wu, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao
+    authors: Yizheng Zhu, <strong>Yuncheng Wu*</strong>, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2024.
     notes: Accepted
 
@@ -31,12 +31,12 @@ main:
     pdf: https://www.vldb.org/pvldb/vol16/p2471-ooi.pdf
 
   - title: "MINT: Detecting Fraudulent Behaviors from Time-series Relational Data"
-    authors: Fei Xiao, <strong>Yuncheng Wu*</strong>, Meihui Zhang, Gang Chen, Beng Chin Ooi (* denotes corresponding author)
+    authors: Fei Xiao, <strong>Yuncheng Wu*</strong>, Meihui Zhang, Gang Chen, Beng Chin Ooi
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2023.
     pdf: https://www.vldb.org/pvldb/vol16/p3610-xiao.pdf
 
   - title: "Incentive-Aware Decentralized Data Collaboration"
-    authors: Yatong Wang, <strong>Yuncheng Wu*</strong>, Xincheng Chen, Gang Feng, Beng Chin Ooi (* denotes corresponding author)
+    authors: Yatong Wang, <strong>Yuncheng Wu*</strong>, Xincheng Chen, Gang Feng, Beng Chin Ooi
     conference: ACM Special Interest Group in Management Of Data <strong>(SIGMOD)</strong>, 2023.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3589303
 
@@ -61,7 +61,7 @@ main:
     pdf: https://arxiv.org/pdf/2105.07754.pdf
 
   - title: "Feature inference attack on model predictions in vertical federated learning"
-    authors: Xinjian Luo, <strong>Yuncheng Wu*</strong>, Xiaokui Xiao, Beng Chin Ooi (* denotes corresponding author)
+    authors: Xinjian Luo, <strong>Yuncheng Wu*</strong>, Xiaokui Xiao, Beng Chin Ooi
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2010.10152.pdf
 

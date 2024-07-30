@@ -17,6 +17,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## News
 
+- **[Jul. 2024]** Our position paper about AI-powered autonomous data system is accepted by Science China Information Sciences 2024.
 - **[Apr. 2024]** Our paper about cost-aware caching framework for cloud databases is awarded as Best Runner Up Paper by IEEE ICDE 2024.
 - **[Apr. 2024]** Our paper about verifiable data collaboration with zero-knowledge proofs is accepted by VLDB 2024.
 - **[Feb. 2024]** Our vision paper about large language models from data management perspective is accepted by IEEE ICDE 2024.

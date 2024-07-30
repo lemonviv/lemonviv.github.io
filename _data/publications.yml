@@ -1,19 +1,24 @@
 main:
 
+  - title: "NeurDB: An AI-powered Autonomous Data System"
+    authors: Beng Chin Ooi, Shaofeng Cai, Gang Chen, Yanyan Shen, Kian-Lee Tan, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Naili Xing, Cong Yue, Lingze Zeng, Meihui Zhang, Zhanhao Zhao
+    conference: Science China Information Sciences
+    notes: Accepted
+
   - title: "Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs"
     authors: Yizheng Zhu, <strong>Yuncheng Wu*</strong>, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2024.
-    notes: Accepted
+    pdf: https://www.vldb.org/pvldb/vol17/p2321-xiao.pdf
 
   - title: "Applications and Challenges for Large Language Models: From Data Management Perspective"
     authors: Meihui Zhang, Zhaoxuan Ji, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Chengliang Chai
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
-    notes: Accepted  
+    pdf: https://www.computer.org/csdl/proceedings-article/icde/2024/171500f530/1YOtQHiX56g  
 
   - title: "LBSC: A Cost-aware Caching Framework for Cloud Databases"
     authors: Zhaoxuan Ji, Zhongle Xie, <strong>Yuncheng Wu</strong>, Meihui Zhang
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
-    notes: Accepted (Best Runner Up Paper Award)
+    pdf: https://www.computer.org/csdl/proceedings-article/icde/2024/171500e911/1YOtC3esnVS
     
   - title: "Protecting Label Distribution in Cross-Silo Federated Learning"
     authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi

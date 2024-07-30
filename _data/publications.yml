@@ -2,7 +2,7 @@ main:
 
   - title: "NeurDB: An AI-powered Autonomous Data System"
     authors: Beng Chin Ooi, Shaofeng Cai, Gang Chen, Yanyan Shen, Kian-Lee Tan, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Naili Xing, Cong Yue, Lingze Zeng, Meihui Zhang, Zhanhao Zhao
-    conference: Science China Information Sciences
+    conference: Science China Information Sciences <strong>(SCIS)</strong>, 2024.
     notes: Accepted
 
   - title: "Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs"

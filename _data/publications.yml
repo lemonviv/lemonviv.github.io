@@ -1,5 +1,20 @@
 main:
 
+  - title: "Passive Inference Attacks on Split Learning via Adversarial Regularization"
+    authors: Xiaochen Zhu, Xinjian Luo, <strong>Yuncheng Wu</strong>, Yangfan Jiang, Xiaokui Xiao, Beng Chin Ooi
+    conference: The Network and Distributed System Security <strong>(NDSS)</strong>, 2025.
+    notes: Accepted
+    
+  - title: "Powering In-Database Dynamic Model Slicing for Structured Data Analytics"
+    authors: Lingze Zeng, Naili Xing, Shaofeng Cai, Gang Chen, Beng Chin Ooi, Jian Pei, <strong>Yuncheng Wu</strong>
+    conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2025.
+    notes: Accepted
+
+  - title: "Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective"
+    authors: Xinjian Luo, Yangfan Jiang, Fei Wei, <strong>Yuncheng Wu*</strong>, Xiaokui Xiao, Beng Chin Ooi
+    conference: IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.
+    notes: Accepted
+
   - title: "NeurDB: An AI-powered Autonomous Data System"
     authors: Beng Chin Ooi, Shaofeng Cai, Gang Chen, Yanyan Shen, Kian-Lee Tan, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Naili Xing, Cong Yue, Lingze Zeng, Meihui Zhang, Zhanhao Zhao
     conference: Science China Information Sciences <strong>(SCIS)</strong>, 2024.

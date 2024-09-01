@@ -17,13 +17,14 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## News
 
+- **[Aug. 2024]** Our paper about passive inference attacks on split learning is accepted by NDSS 2025.
+- **[Aug. 2024]** Our paper about in-database model slicing for structured data analytics is accepted by VLDB 2025.
+- **[Aug. 2024]** Our paper about privacy and fairness risks in sharing diffusion models is accepted by TIFS 2024.
 - **[Jul. 2024]** Our position paper about AI-powered autonomous data system is accepted by Science China Information Sciences 2024.
 - **[Apr. 2024]** Our paper about cost-aware caching framework for cloud databases is awarded as Best Runner Up Paper by IEEE ICDE 2024.
 - **[Apr. 2024]** Our paper about verifiable data collaboration with zero-knowledge proofs is accepted by VLDB 2024.
 - **[Feb. 2024]** Our vision paper about large language models from data management perspective is accepted by IEEE ICDE 2024.
 - **[Jan. 2024]** I join the School of Information at Renmin University of China as an associate professor.
-- **[Dec. 2023]** Our paper about data distribution leakage in cross-silo federated learning is accepted by IEEE TKDE.
-- **[Oct. 2023]** Our paper about protecting label distribution in cross-silo federated learning is accepted by IEEE S&P 2024.
 
 {% include_relative _includes/publications.md %}
 

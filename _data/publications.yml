@@ -17,12 +17,12 @@ main:
   - title: "Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective"
     authors: Xinjian Luo, Yangfan Jiang, Fei Wei, <strong>Yuncheng Wu*</strong>, Xiaokui Xiao, Beng Chin Ooi
     conference: IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.
-    notes: Accepted
+    pdf: https://ieeexplore.ieee.org/document/10663440/
 
   - title: "NeurDB: An AI-powered Autonomous Data System"
     authors: Beng Chin Ooi, Shaofeng Cai, Gang Chen, Yanyan Shen, Kian-Lee Tan, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Naili Xing, Cong Yue, Lingze Zeng, Meihui Zhang, Zhanhao Zhao
     conference: Science China Information Sciences <strong>(SCIS)</strong>, 2024.
-    notes: Accepted
+    pdf: https://link.springer.com/article/10.1007/s11432-024-4125-9
 
   - title: "Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs"
     authors: Yizheng Zhu, <strong>Yuncheng Wu*</strong>, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao

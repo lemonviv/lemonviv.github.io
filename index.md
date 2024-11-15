@@ -17,6 +17,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## News
 
+- **[Oct. 2024]** Our paper about AI-powered Autonomous Database is accepted by CIDR 2025.
 - **[Aug. 2024]** Our paper about passive inference attacks on split learning is accepted by NDSS 2025.
 - **[Aug. 2024]** Our paper about in-database model slicing for structured data analytics is accepted by VLDB 2025.
 - **[Aug. 2024]** Our paper about privacy and fairness risks in sharing diffusion models is accepted by TIFS 2024.

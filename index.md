@@ -16,7 +16,8 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - **Serverless Computing:** performance evaluation, elasticity
 
 ## News
-
+- **[Mar. 2025]** One paper about Secure Serverless Model Server is accepted by ICDE 2025.
+- **[Mar. 2025]** One paper about Verifiable Federated Learning is accepted by TKDE 2025.
 - **[Oct. 2024]** Our paper about AI-powered Autonomous Database is accepted by CIDR 2025.
 - **[Aug. 2024]** Our paper about passive inference attacks on split learning is accepted by NDSS 2025.
 - **[Aug. 2024]** Our paper about in-database model slicing for structured data analytics is accepted by VLDB 2025.

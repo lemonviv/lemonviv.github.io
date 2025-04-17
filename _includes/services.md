@@ -9,7 +9,8 @@
 <h4 style="margin:0 10px 0;">Conference PC Members</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>2025: VLDB</autocolor></li>
+  <li><autocolor>2026: VLDB(AE)</autocolor></li>
+  <li><autocolor>2025: VLDB, CIKM (SPC)</autocolor></li>
   <li><autocolor>2024: VLDB, ICDE, CIKM (SPC)</autocolor></li>
   <li><autocolor>2023: VLDB, ICDE, EDBT</autocolor></li>
   <li><autocolor>2022: VLDB, ICDE</autocolor></li>
@@ -18,11 +19,12 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Journal of Computer Science and Technology (JCST)</autocolor></li>
-  <li><autocolor>Transactions on Big Data (TBD)</autocolor></li>
+  <li><autocolor>IEEE Transactions on Dependable and Secure Computing (TDSC)</autocolor></li>
   <li><autocolor>Transactions on Information Forensics & Security (TIFS)</autocolor></li>
   <li><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></li>
   <li><autocolor>ACM Transactions on Data Science (TDS)</autocolor></li>  
+  <li><autocolor>Journal of Computer Science and Technology (JCST)</autocolor></li>
+  <li><autocolor>Transactions on Big Data (TBD)</autocolor></li>
   <li><autocolor>IEEE Network</autocolor></li>
   <li><autocolor>Big Data Research</autocolor></li>
   <li><autocolor>Chinese Journal of Computers (CJC)</autocolor></li>    

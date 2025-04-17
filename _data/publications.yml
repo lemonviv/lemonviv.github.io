@@ -1,18 +1,28 @@
 main:
+  - title: "SeSeMI: Secure Serverless Model Inference on Sensitive Data"
+    authors: Guoyu Hu, <strong>Yuncheng Wu</strong>, Gang Chen, Tien Tuan Anh Dinh, Beng Chin Ooi
+    conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025.
+    notes: Accepted
+
+  - title: "Zkfhed: A Verifiable and Scalable Blockchain-Enhanced Federated Learning System"
+    authors: Bingxue Zhang, Guangguang Lu, <strong>Yuncheng Wu</strong>, Kunpeng Ren, Feida Zhu
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2025.
+    notes: Accepted
+    
   - title: "NeurDB: On the Design and Implementation of an AI-powered Autonomous Database"
     authors: Zhanhao Zhao, Shaofeng Cai, Haotian Gao, Hexiang Pan, Siqi Xiang, Naili Xing, Gang Chen, Beng Chin Ooi, Yanyan Shen, <strong>Yuncheng Wu</strong>, Meihui Zhang
     conference: The Conference on Innovative Data Systems Research <strong>(CIDR)</strong>, 2025.
-    notes: Accepted
+    pdf: https://vldb.org/cidrdb/papers/2025/p29-zhao.pdf
 
   - title: "Passive Inference Attacks on Split Learning via Adversarial Regularization"
     authors: Xiaochen Zhu, Xinjian Luo, <strong>Yuncheng Wu</strong>, Yangfan Jiang, Xiaokui Xiao, Beng Chin Ooi
     conference: The Network and Distributed System Security <strong>(NDSS)</strong>, 2025.
-    notes: Accepted
+    pdf: https://www.ndss-symposium.org/wp-content/uploads/2025-30-paper.pdf
     
   - title: "Powering In-Database Dynamic Model Slicing for Structured Data Analytics"
     authors: Lingze Zeng, Naili Xing, Shaofeng Cai, Gang Chen, Beng Chin Ooi, Jian Pei, <strong>Yuncheng Wu</strong>
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2025.
-    notes: Accepted
+    pdf: https://dl.acm.org/doi/abs/10.14778/3704965.3704985
 
   - title: "Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective"
     authors: Xinjian Luo, Yangfan Jiang, Fei Wei, <strong>Yuncheng Wu*</strong>, Xiaokui Xiao, Beng Chin Ooi

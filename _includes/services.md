@@ -9,7 +9,7 @@
 <h4 style="margin:0 10px 0;">Conference PC Members</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>2026: VLDB(AE)</autocolor></li>
+  <li><autocolor>2026: VLDB (Associate Editor)</autocolor></li>
   <li><autocolor>2025: VLDB, CIKM (SPC)</autocolor></li>
   <li><autocolor>2024: VLDB, ICDE, CIKM (SPC)</autocolor></li>
   <li><autocolor>2023: VLDB, ICDE, EDBT</autocolor></li>

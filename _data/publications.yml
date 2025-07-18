@@ -47,14 +47,14 @@ main:
   - title: "Applications and Challenges for Large Language Models: From Data Management Perspective"
     authors: Meihui Zhang, Zhaoxuan Ji, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Chengliang Chai
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
-    notes: Best Paper Runner Up Award
     pdf: https://www.computer.org/csdl/proceedings-article/icde/2024/171500f530/1YOtQHiX56g
 
   - title: "LBSC: A Cost-aware Caching Framework for Cloud Databases"
     authors: Zhaoxuan Ji, Zhongle Xie, <strong>Yuncheng Wu</strong>, Meihui Zhang
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
     pdf: https://www.computer.org/csdl/proceedings-article/icde/2024/171500e911/1YOtC3esnVS
-    
+    notes: Best Paper Runner Up Award
+
   - title: "Protecting Label Distribution in Cross-Silo Federated Learning"
     authors: Yangfan Jiang, Xinjian Luo, <strong>Yuncheng Wu</strong>, Xiaokui Xiao, Beng Chin Ooi
     conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2024.

@@ -16,16 +16,17 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - **Serverless Computing:** performance evaluation, elasticity
 
 ## News
+- **[Jul. 2025]** One paper about differentially private SGD is accepted by MM 2025.
 - **[Mar. 2025]** One paper about Secure Serverless Model Server is accepted by ICDE 2025.
 - **[Mar. 2025]** One paper about Verifiable Federated Learning is accepted by TKDE 2025.
-- **[Oct. 2024]** Our paper about AI-powered Autonomous Database is accepted by CIDR 2025.
-- **[Aug. 2024]** Our paper about passive inference attacks on split learning is accepted by NDSS 2025.
-- **[Aug. 2024]** Our paper about in-database model slicing for structured data analytics is accepted by VLDB 2025.
-- **[Aug. 2024]** Our paper about privacy and fairness risks in sharing diffusion models is accepted by TIFS 2024.
-- **[Jul. 2024]** Our position paper about AI-powered autonomous data system is accepted by Science China Information Sciences 2024.
-- **[Apr. 2024]** Our paper about cost-aware caching framework for cloud databases is awarded as Best Runner Up Paper by IEEE ICDE 2024.
-- **[Apr. 2024]** Our paper about verifiable data collaboration with zero-knowledge proofs is accepted by VLDB 2024.
-- **[Feb. 2024]** Our vision paper about large language models from data management perspective is accepted by IEEE ICDE 2024.
+- **[Oct. 2024]** One paper about AI-powered Autonomous Database is accepted by CIDR 2025.
+- **[Aug. 2024]** One paper about passive inference attacks is accepted by NDSS 2025.
+- **[Aug. 2024]** One paper about in-database model slicing is accepted by VLDB 2025.
+- **[Aug. 2024]** One paper about privacy risks in sharing diffusion models is accepted by TIFS 2024.
+- **[Jul. 2024]** One position paper about AI-powered autonomous data system is accepted by SCIS 2024.
+- **[Apr. 2024]** One paper about cost-aware caching framework for cloud databases is awarded as Best Runner Up Paper by IEEE ICDE 2024.
+- **[Apr. 2024]** One paper about verifiable data collaboration with zero-knowledge proofs is accepted by VLDB 2024.
+- **[Feb. 2024]** One vision paper about large language models from data management perspective is accepted by IEEE ICDE 2024.
 - **[Jan. 2024]** I join the School of Information at Renmin University of China as an associate professor.
 
 {% include_relative _includes/publications.md %}

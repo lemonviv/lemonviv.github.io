@@ -1,13 +1,18 @@
 main:
+  - title: "Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data"
+    authors: Haichao Sha, <strong>Yuncheng Wu*</strong>, Ruixuan Liu, Yang Cao, Hong Chen
+    conference: ACM Multimedia <strong>(MM)</strong>, 2025
+    notes: Accepted
+  
   - title: "SeSeMI: Secure Serverless Model Inference on Sensitive Data"
     authors: Guoyu Hu, <strong>Yuncheng Wu</strong>, Gang Chen, Tien Tuan Anh Dinh, Beng Chin Ooi
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025.
-    notes: Accepted
+    notes: Accepted, Best Student Paper Award
 
   - title: "Zkfhed: A Verifiable and Scalable Blockchain-Enhanced Federated Learning System"
     authors: Bingxue Zhang, Guangguang Lu, <strong>Yuncheng Wu</strong>, Kunpeng Ren, Feida Zhu
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2025.
-    notes: Accepted
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10930720
     
   - title: "NeurDB: On the Design and Implementation of an AI-powered Autonomous Database"
     authors: Zhanhao Zhao, Shaofeng Cai, Haotian Gao, Hexiang Pan, Siqi Xiang, Naili Xing, Gang Chen, Beng Chin Ooi, Yanyan Shen, <strong>Yuncheng Wu</strong>, Meihui Zhang
@@ -15,7 +20,7 @@ main:
     pdf: https://vldb.org/cidrdb/papers/2025/p29-zhao.pdf
 
   - title: "Passive Inference Attacks on Split Learning via Adversarial Regularization"
-    authors: Xiaochen Zhu, Xinjian Luo, <strong>Yuncheng Wu</strong>, Yangfan Jiang, Xiaokui Xiao, Beng Chin Ooi
+    authors: Xiaochen Zhu, Xinjian Luo, <strong>Yuncheng Wu*</strong>, Yangfan Jiang, Xiaokui Xiao, Beng Chin Ooi
     conference: The Network and Distributed System Security <strong>(NDSS)</strong>, 2025.
     pdf: https://www.ndss-symposium.org/wp-content/uploads/2025-30-paper.pdf
     
@@ -42,7 +47,8 @@ main:
   - title: "Applications and Challenges for Large Language Models: From Data Management Perspective"
     authors: Meihui Zhang, Zhaoxuan Ji, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Chengliang Chai
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
-    pdf: https://www.computer.org/csdl/proceedings-article/icde/2024/171500f530/1YOtQHiX56g  
+    notes: Best Paper Runner Up Award
+    pdf: https://www.computer.org/csdl/proceedings-article/icde/2024/171500f530/1YOtQHiX56g
 
   - title: "LBSC: A Cost-aware Caching Framework for Cloud Databases"
     authors: Zhaoxuan Ji, Zhongle Xie, <strong>Yuncheng Wu</strong>, Meihui Zhang

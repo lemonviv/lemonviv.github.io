@@ -25,7 +25,6 @@
   <li><autocolor>ACM Transactions on Data Science (TDS)</autocolor></li>  
   <li><autocolor>Journal of Computer Science and Technology (JCST)</autocolor></li>
   <li><autocolor>Transactions on Big Data (TBD)</autocolor></li>
-  <li><autocolor>IEEE Network</autocolor></li>
   <li><autocolor>Big Data Research</autocolor></li>
   <li><autocolor>Chinese Journal of Computers (CJC)</autocolor></li>    
 </ul>

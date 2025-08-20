@@ -1,6 +1,6 @@
 main:
   - title: "Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data"
-    authors: Haichao Sha, <strong>Yuncheng Wu*</strong>, Ruixuan Liu, Yang Cao, Hong Chen
+    authors: Haichao Sha, <strong>Yuncheng Wu*</strong>, Ruixuan Liu, Yang Cao, Hong Chen*
     conference: ACM Multimedia <strong>(MM)</strong>, 2025
     notes: Accepted
   

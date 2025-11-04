@@ -2,12 +2,13 @@ main:
   - title: "Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data"
     authors: Haichao Sha, <strong>Yuncheng Wu*</strong>, Ruixuan Liu, Yang Cao, Hong Chen*
     conference: ACM Multimedia <strong>(MM)</strong>, 2025
-    notes: Accepted
+    notes: Accepted, Outstanding Papers in Generation Theme
   
   - title: "SeSeMI: Secure Serverless Model Inference on Sensitive Data"
     authors: Guoyu Hu, <strong>Yuncheng Wu</strong>, Gang Chen, Tien Tuan Anh Dinh, Beng Chin Ooi
     conference: Proceedings of the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025.
-    notes: Accepted, Best Student Paper Award
+    pdf: https://www.computer.org/csdl/proceedings-article/icde/2025/360300c201/26FZAJm47MA
+    notes: Best Student Paper Award
 
   - title: "Zkfhed: A Verifiable and Scalable Blockchain-Enhanced Federated Learning System"
     authors: Bingxue Zhang, Guangguang Lu, <strong>Yuncheng Wu</strong>, Kunpeng Ren, Feida Zhu

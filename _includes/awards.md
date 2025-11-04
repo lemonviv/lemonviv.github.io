@@ -1,6 +1,7 @@
 ## Awards
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor><strong>ACM MM Outstanding Papers in Generation Theme Award, 2025</strong>. Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data.</autocolor></li>
   <li><autocolor><strong>IEEE ICDE Best Student Paper Award, 2025</strong>. SeSeMI: Secure Serverless Model Inference on Sensitive Data.</autocolor></li>
   <li><autocolor><strong>ACM SIGMOD Systems Award, 2024</strong>. Apache SINGA: A Distributed Deep Learning System.</autocolor></li>
   <li><autocolor><strong>IEEE ICDE Best Runner Up Paper Award, 2024</strong>. LBSC: A Cost-aware Caching Framework for Cloud Databases.</autocolor></li>

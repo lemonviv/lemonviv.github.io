@@ -1,7 +1,13 @@
 main:
+  - title: "Modeling Concurrency Control as a Learnable Function"
+    authors: Hexiang Pan, Shaofeng Cai, Tien Tuan Anh Dinh, <strong>Yuncheng Wu*</strong>, Yeow Meng Chee, Gang Chen, Beng Chin Ooi
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026
+    notes: Accepted
+  
   - title: "Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data"
     authors: Haichao Sha, <strong>Yuncheng Wu*</strong>, Ruixuan Liu, Yang Cao, Hong Chen*
     conference: ACM Multimedia <strong>(MM)</strong>, 2025
+    pdf: https://dl.acm.org/doi/10.1145/3746027.3755037
     notes: Accepted, Outstanding Papers in Generation Theme
   
   - title: "SeSeMI: Secure Serverless Model Inference on Sensitive Data"

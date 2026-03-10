@@ -1,6 +1,6 @@
 main:
   - title: "Modeling Concurrency Control as a Learnable Function"
-    authors: Hexiang Pan, Shaofeng Cai, Tien Tuan Anh Dinh, <strong>Yuncheng Wu*</strong>, Yeow Meng Chee, Gang Chen, Beng Chin Ooi
+    authors: Hexiang Pan, Shaofeng Cai, Tien Tuan Anh Dinh, <strong>Yuncheng Wu</strong>, Yeow Meng Chee, Gang Chen, Beng Chin Ooi
     conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026
     notes: Accepted
   

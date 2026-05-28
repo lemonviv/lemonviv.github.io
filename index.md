@@ -16,6 +16,8 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - **Serverless Computing:** performance evaluation, elasticity
 
 ## News
+- **[May. 2026]** One paper about embedding inversion attack is accepted by KDD 2026.
+- **[Feb. 2026]** One paper about learned concurrency control is accepted by SIGMOD 2026.
 - **[Jul. 2025]** One paper about differentially private SGD is accepted by MM 2025.
 - **[Mar. 2025]** One paper about Secure Serverless Model Server is accepted by ICDE 2025.
 - **[Mar. 2025]** One paper about Verifiable Federated Learning is accepted by TKDE 2025.

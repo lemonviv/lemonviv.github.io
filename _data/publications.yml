@@ -1,4 +1,9 @@
 main:
+  - title: "Black-Box Embedding Inversion Attack on Vector Databases"
+    authors: Lichao Sun, <strong>Yuncheng Wu*</strong>, Haichao Sha, Xinjian Luo, Mingyang Yi, Meihui Zhang, Cuiping Li, Hong chen*
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2026
+    notes: Accepted
+  
   - title: "Modeling Concurrency Control as a Learnable Function"
     authors: Hexiang Pan, Shaofeng Cai, Tien Tuan Anh Dinh, <strong>Yuncheng Wu</strong>, Yeow Meng Chee, Gang Chen, Beng Chin Ooi
     conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026

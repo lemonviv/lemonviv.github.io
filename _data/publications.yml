@@ -1,6 +1,11 @@
 main:
+  - title: "QAMBOO: Efficient and Scalable Secure Collaborative Analytics in the Cloud"
+    authors: Qingxu Shang, <strong>Yuncheng Wu*</strong>, Yuncong Zhang, Ju Fan, Cuiping Li, Hong Chen*, Xiaoyong Du
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2027
+    notes: Accepted
+  
   - title: "Black-Box Embedding Inversion Attack on Vector Databases"
-    authors: Lichao Sun, <strong>Yuncheng Wu*</strong>, Haichao Sha, Xinjian Luo, Mingyang Yi, Meihui Zhang, Cuiping Li, Hong chen*
+    authors: Lichao Sun, <strong>Yuncheng Wu*</strong>, Haichao Sha, Xinjian Luo, Mingyang Yi, Meihui Zhang, Cuiping Li, Hong Chen*
     conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2026
     notes: Accepted
   

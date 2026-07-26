@@ -1,6 +1,6 @@
 main:
   - title: "QAMBOO: Efficient and Scalable Secure Collaborative Analytics in the Cloud"
-    authors: Qingxu Shang, <strong>Yuncheng Wu*</strong>, Yuncong Zhang, Ju Fan, Cuiping Li, Hong Chen*, Xiaoyong Du
+    authors: Qingxu Shang, <strong>Yuncheng Wu</strong>, Yuncong Zhang, Ju Fan, Cuiping Li, Hong Chen, Xiaoyong Du
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2027
     notes: Accepted
   

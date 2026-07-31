@@ -1,22 +1,27 @@
 main:
+  - title: "GeoDPZO: Symmetry-Aware Differentially Private Zeroth-Order Optimization for Efficient LLM Fine-Tuning"
+    authors: Haichao Sha, Zihao Wang, <strong>Yuncheng Wu</strong>, Ergute Bao, Cuiping Li, Hong Chen
+    conference: The Network and Distributed System Security <strong>(NDSS)</strong>, 2027.
+    notes: Accepted
+  
   - title: "QAMBOO: Efficient and Scalable Secure Collaborative Analytics in the Cloud"
-    authors: Qingxu Shang, <strong>Yuncheng Wu</strong>, Yuncong Zhang, Ju Fan, Cuiping Li, Hong Chen, Xiaoyong Du
-    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2027
+    authors: Qingxu Shang, <strong>Yuncheng Wu*</strong>, Yuncong Zhang, Ju Fan, Cuiping Li, Hong Chen*, Xiaoyong Du
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2027.
     notes: Accepted
   
   - title: "Black-Box Embedding Inversion Attack on Vector Databases"
     authors: Lichao Sun, <strong>Yuncheng Wu*</strong>, Haichao Sha, Xinjian Luo, Mingyang Yi, Meihui Zhang, Cuiping Li, Hong Chen*
-    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2026
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2026.
     notes: Accepted
   
   - title: "Modeling Concurrency Control as a Learnable Function"
     authors: Hexiang Pan, Shaofeng Cai, Tien Tuan Anh Dinh, <strong>Yuncheng Wu</strong>, Yeow Meng Chee, Gang Chen, Beng Chin Ooi
-    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026.
     pdf: https://dl.acm.org/doi/epdf/10.1145/3802088
   
   - title: "Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data"
     authors: Haichao Sha, <strong>Yuncheng Wu*</strong>, Ruixuan Liu, Yang Cao, Hong Chen*
-    conference: ACM Multimedia <strong>(MM)</strong>, 2025
+    conference: ACM Multimedia <strong>(MM)</strong>, 2025.
     pdf: https://dl.acm.org/doi/10.1145/3746027.3755037
     notes: Outstanding Papers in Generation Theme
   

@@ -1,6 +1,6 @@
 main:
   - title: "GeoDPZO: Symmetry-Aware Differentially Private Zeroth-Order Optimization for Efficient LLM Fine-Tuning"
-    authors: Haichao Sha, Zihao Wang, <strong>Yuncheng Wu</strong>, Ergute Bao, Cuiping Li, Hong Chen
+    authors: Haichao Sha, Zihao Wang, <strong>Yuncheng Wu*</strong>, Ergute Bao, Cuiping Li, Hong Chen*
     conference: The Network and Distributed System Security <strong>(NDSS)</strong>, 2027.
     notes: Accepted
   

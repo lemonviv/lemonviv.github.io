@@ -2,7 +2,7 @@ main:
    - title: "Towards Effective Orchestration of AI x DB Workloads"
     authors: Naili Xing, Haotian Gao, Zhanhao Zhao, Shaofeng Cai, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Zhongle Xie, Meihui Zhang, Beng Chin Ooi
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2027.
-    notes: Accepted
+    notes: Accepted 
   
   - title: "GeoDPZO: Symmetry-Aware Differentially Private Zeroth-Order Optimization for Efficient LLM Fine-Tuning"
     authors: Haichao Sha, Zihao Wang, <strong>Yuncheng Wu*</strong>, Ergute Bao, Cuiping Li, Hong Chen*

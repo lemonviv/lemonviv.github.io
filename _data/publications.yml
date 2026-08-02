@@ -1,5 +1,5 @@
 main:
-   - title: "Towards Effective Orchestration of AI x DB Workloads"
+  - title: "Towards Effective Orchestration of AI x DB Workloads"
     authors: Naili Xing, Haotian Gao, Zhanhao Zhao, Shaofeng Cai, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Zhongle Xie, Meihui Zhang, Beng Chin Ooi
     conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2027.
     notes: Accepted 

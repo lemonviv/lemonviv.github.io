@@ -1,4 +1,9 @@
 main:
+   - title: "Towards Effective Orchestration of AI x DB Workloads"
+    authors: Naili Xing, Haotian Gao, Zhanhao Zhao, Shaofeng Cai, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Zhongle Xie, Meihui Zhang, Beng Chin Ooi
+    conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2027.
+    notes: Accepted
+  
   - title: "GeoDPZO: Symmetry-Aware Differentially Private Zeroth-Order Optimization for Efficient LLM Fine-Tuning"
     authors: Haichao Sha, Zihao Wang, <strong>Yuncheng Wu*</strong>, Ergute Bao, Cuiping Li, Hong Chen*
     conference: The Network and Distributed System Security <strong>(NDSS)</strong>, 2027.
@@ -7,11 +12,6 @@ main:
   - title: "QAMBOO: Efficient and Scalable Secure Collaborative Analytics in the Cloud"
     authors: Qingxu Shang, <strong>Yuncheng Wu*</strong>, Yuncong Zhang, Ju Fan, Cuiping Li, Hong Chen*, Xiaoyong Du
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2027.
-    notes: Accepted
-
-  - title: "Towards Effective Orchestration of AI x DB Workloads"
-    authors: Naili Xing, Haotian Gao, Zhanhao Zhao, Shaofeng Cai, Zhaojing Luo, <strong>Yuncheng Wu</strong>, Zhongle Xie, Meihui Zhang, Beng Chin Ooi
-    conference: Proceedings of the VLDB Endowment <strong>(PVLDB)</strong>, 2026.
     notes: Accepted
   
   - title: "Black-Box Embedding Inversion Attack on Vector Databases"

@@ -16,6 +16,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - **Serverless Computing:** performance evaluation, elasticity
 
 ## News
+- **[Aug. 2026]** One paper about differentially private NAS is accepted by npj Artificial Intelligence 2026.
 - **[Aug. 2026]** One paper about orchestration of AI x DB workloads is accepted by VLDB 2027.
 - **[Jul. 2026]** One paper about differentially private LLM fine-tuning is accepted by NDSS 2027.
 - **[Jul. 2026]** One paper about secure collaborative analytics is accepted by NSDI 2027.

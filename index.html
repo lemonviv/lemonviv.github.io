@@ -5,21 +5,21 @@ layout: homepage
   <div class="profile-copy">
     <div class="profile-heading">
       <h1 id="name">{{ site.title }}</h1>
-      <div class="profile-links" aria-label="Contact and profiles">
-        <a href="mailto:{{ site.email_address }}" title="{{ site.email }}">Email</a>
-        {% if site.google_scholar %}<a href="{{ site.google_scholar }}">Google Scholar</a>{% endif %}
-        {% if site.github_link %}<a href="{{ site.github_link }}">GitHub</a>{% endif %}
-        {% if site.linkedin %}<a href="{{ site.linkedin }}">LinkedIn</a>{% endif %}
-        {% if site.cv_link %}<a href="{{ site.cv_link }}">CV</a>{% endif %}
-        {% if site.twitter %}<a href="{{ site.twitter }}">Twitter</a>{% endif %}
-      </div>
-      <p class="email-address">{{ site.email }}</p>
       <p class="profile-role">{{ site.position }}<br>{{ site.affiliation }}</p>
     </div>
     {% capture biography %}{% include about.md %}{% endcapture %}
     {{ biography | markdownify }}
+    <div class="profile-links" aria-label="Contact and profiles">
+      <a href="mailto:{{ site.email_address }}" title="{{ site.email }}">Email</a>
+      {% if site.google_scholar %}<a href="{{ site.google_scholar }}">Google Scholar</a>{% endif %}
+      {% if site.github_link %}<a href="{{ site.github_link }}">GitHub</a>{% endif %}
+      {% if site.linkedin %}<a href="{{ site.linkedin }}">LinkedIn</a>{% endif %}
+      {% if site.cv_link %}<a href="{{ site.cv_link }}">CV</a>{% endif %}
+      {% if site.twitter %}<a href="{{ site.twitter }}">Twitter</a>{% endif %}
+    </div>
+    <p class="email-address">{{ site.email }}</p>
   </div>
-  <img class="portrait" src="{{ '/assets/img/wuyuncheng-photo.jpg' | relative_url }}" alt="Yuncheng Wu" width="200" height="200" fetchpriority="high">
+  <img class="portrait" src="{{ '/assets/img/wuyuncheng-photo.jpg' | relative_url }}" alt="Yuncheng Wu" width="450" height="600" fetchpriority="high">
 </section>
 
 <section id="research-interests" aria-labelledby="research-heading">

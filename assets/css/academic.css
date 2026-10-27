@@ -32,9 +32,9 @@ li { padding-left: 2px; margin-bottom: 7px; }
 .profile-copy { display: contents; }
 .profile-heading { grid-column: 1; grid-row: 1; padding-bottom: 26px; text-align: center; }
 .profile-copy > p { grid-column: 1; }
-.profile-role { text-align: center; color: var(--muted); font-size: 14px; line-height: 1.6; margin: 16px 0 0; }
-.portrait { width: 200px; height: 200px; object-fit: cover; border-radius: 50%; grid-column: 2; grid-row: 2 / span 3; margin-top: 0; object-position: center 34%; }
-.profile-links { display: flex; justify-content: center; gap: 0; flex-wrap: wrap; margin-top: 14px; }
+.profile-role { text-align: center; color: var(--muted); font-size: 14px; line-height: 1.6; margin: 0; }
+.portrait { width: 200px; height: auto; object-fit: contain; border-radius: 0; grid-column: 2; grid-row: 2 / span 3; margin-top: 0; }
+.profile-links { grid-column: 1; display: flex; justify-content: center; gap: 0; flex-wrap: wrap; margin-top: 20px; }
 .profile-links a + a::before { content: '/'; color: #777; padding: 0 9px; display: inline-block; }
 .email-address { text-align: center; font-size: 13px; color: var(--muted); margin-top: 6px; margin-bottom: 0; }
 .site-header { position: fixed; top: 18px; right: max(20px, calc((100vw - var(--page-width)) / 2 + 24px)); z-index: 10; }
@@ -65,11 +65,13 @@ li { padding-left: 2px; margin-bottom: 7px; }
   .site-header { top: 14px; right: 18px; }
   .profile { display: flex; flex-direction: column; gap: 0; }
   .profile-heading { width: 100%; padding-bottom: 0; }
-  .portrait { order: 0; align-self: center; width: 150px; height: 150px; margin: 22px 0; }
+  .portrait { order: 0; align-self: center; width: 150px; height: auto; margin: 22px 0; }
   .profile-copy > p { order: 1; }
+  .profile-links { order: 2; align-self: center; }
+  .profile-copy > .email-address { order: 3; align-self: center; }
   h1 { font-size: 30px; }
   h2 { font-size: 22px; }
-  .profile-role { margin-top: 16px; }
+  .profile-role { margin-top: 0; }
   section { margin-top: 30px; }
   .section-menu nav a { padding-top: 9px; padding-bottom: 9px; }
 }

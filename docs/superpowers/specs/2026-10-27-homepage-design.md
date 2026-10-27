@@ -13,3 +13,7 @@ Validate the real GitHub Pages dependency bundle, content preservation, non-root
 ## Owner content and profile revisions
 
 Remove the Wu Yuzhang Young Scholar entry from Awards. Link the NAS paper to https://www.nature.com/articles/s44387-026-00156-5 and remove its Accepted note. Replace research interests with Data Privacy and Security, Federated Learning, Private Data Federation, LLM Privacy, and Agent Memory Access Control. Move contact/profile links directly under the name. On desktop, align the portrait with the biography below the heading block; on mobile, show the heading/contact block, portrait, then biography. Use the faculty portrait from https://info.ruc.edu.cn/images/2024-09/99d7b10b3ef144dfb8fc1b46d1154a46.jpg, identified on the faculty page supplied by the owner.
+
+## Owner correction: contact placement and portrait shape
+
+Revert moving the contact/profile links below the name; return those links and the email address below the biography. Preserve the new faculty-page image and desktop alignment with the biography, but render its complete 3:4 rectangular image with automatic height, no rounded mask and no cropping. On mobile keep heading, rectangular portrait, biography, contact links and email in that visual order.

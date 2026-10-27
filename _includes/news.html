@@ -1,0 +1,18 @@
+<section id="news" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+  <ul class="news-list news-latest">
+    {% for item in site.data.news limit:10 %}
+    <li><strong>[{{ item.date }}]</strong> {{ item.text }}</li>
+    {% endfor %}
+  </ul>
+  {% if site.data.news.size > 10 %}
+  <details class="news-history">
+    <summary>Earlier news ({{ site.data.news.size | minus: 10 }})</summary>
+    <ul class="news-list news-archive">
+      {% for item in site.data.news offset:10 %}
+      <li><strong>[{{ item.date }}]</strong> {{ item.text }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
+</section>

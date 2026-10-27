@@ -1,5 +1,3 @@
 - Data Privacy and Security
-- Federated Learning
-- Private Data Federation
-- LLM Privacy
-- Agent Memory Access Control
+- Federated Computation: Federated Learning, Federated Databases
+- AI Privacy: LLM Privacy, Agent Access Control

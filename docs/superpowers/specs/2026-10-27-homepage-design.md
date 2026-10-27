@@ -17,3 +17,7 @@ Remove the Wu Yuzhang Young Scholar entry from Awards. Link the NAS paper to htt
 ## Owner correction: contact placement and portrait shape
 
 Revert moving the contact/profile links below the name; return those links and the email address below the biography. Preserve the new faculty-page image and desktop alignment with the biography, but render its complete 3:4 rectangular image with automatic height, no rounded mask and no cropping. On mobile keep heading, rectangular portrait, biography, contact links and email in that visual order.
+
+## Owner correction: three research-interest entries
+
+Render exactly three list entries: Data Privacy and Security; Federated Computation: Federated Learning, Federated Databases; AI Privacy: LLM Privacy, Agent Access Control.

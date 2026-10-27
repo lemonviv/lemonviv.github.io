@@ -17,7 +17,7 @@ main:
   - title: "Specialized and Effective Neural Architecture Search for Differentially Private Stochastic Gradient Descent"
     authors: Daxuan Xue, <strong>Yuncheng Wu</strong>, Dengfeng Zhao, Haichao Sha, Hong Chen, Cuiping Li
     conference: npj Artificial Intelligence (Springer Nature), 2026.
-    notes: Accepted
+    pdf: https://www.nature.com/articles/s44387-026-00156-5
     
   - title: "Black-Box Embedding Inversion Attack on Vector Databases"
     authors: Lichao Sun, <strong>Yuncheng Wu*</strong>, Haichao Sha, Xinjian Luo, Mingyang Yi, Meihui Zhang, Cuiping Li, Hong Chen*

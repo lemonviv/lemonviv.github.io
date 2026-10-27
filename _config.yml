@@ -3,12 +3,15 @@ title: Yuncheng Wu
 position: Associate Professor
 affiliation: School of Information, Renmin University of China
 email: wuyuncheng (at) ruc.edu.cn
+email_address: wuyuncheng@ruc.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Yuncheng Wu, Data Privacy and Security, Federated Computation, Federated Learning, Federated Databases, AI Privacy, LLM Privacy, Agent Access Control
+description: Yuncheng Wu, Associate Professor at Renmin University of China. Research in data privacy and security, federated computation, and AI privacy.
+url: https://lemonviv.github.io
+baseurl: ""
+canonical: https://lemonviv.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -40,10 +43,13 @@ google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# The homepage uses the local layout; no remote theme is required.
 
 # The following files will be removed from the generated website.
 exclude:
+  - docs/
+  - tests/
+  - vendor/
   - Gemfile
   - Gemfile.lock
   - README.md
@@ -53,3 +59,7 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+# Section wrappers own the navigation IDs, avoiding duplicate heading anchors.
+kramdown:
+  auto_ids: false

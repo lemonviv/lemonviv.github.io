@@ -1,0 +1,60 @@
+---
+layout: homepage
+---
+<section class="profile" id="about" aria-labelledby="name">
+  <div class="profile-copy">
+    <div class="profile-heading">
+      <h1 id="name">{{ site.title }}</h1>
+      <p class="profile-role">{{ site.position }}<br>{{ site.affiliation }}</p>
+    </div>
+    {% capture biography %}{% include about.md %}{% endcapture %}
+    {{ biography | markdownify }}
+    <div class="profile-links" aria-label="Contact and profiles">
+      <a href="mailto:{{ site.email_address }}" title="{{ site.email }}">Email</a>
+      {% if site.google_scholar %}<a href="{{ site.google_scholar }}">Google Scholar</a>{% endif %}
+      {% if site.github_link %}<a href="{{ site.github_link }}">GitHub</a>{% endif %}
+      {% if site.linkedin %}<a href="{{ site.linkedin }}">LinkedIn</a>{% endif %}
+      {% if site.cv_link %}<a href="{{ site.cv_link }}">CV</a>{% endif %}
+      {% if site.twitter %}<a href="{{ site.twitter }}">Twitter</a>{% endif %}
+    </div>
+    <p class="email-address">{{ site.email }}</p>
+  </div>
+  <img class="portrait" src="{{ '/assets/img/wuyuncheng-photo.jpg' | relative_url }}" alt="Yuncheng Wu" width="450" height="600" fetchpriority="high">
+</section>
+
+<section id="research-interests" aria-labelledby="research-heading">
+  <h2 id="research-heading">Research Interests</h2>
+  {% capture research %}{% include research.md %}{% endcapture %}
+  {{ research | markdownify }}
+</section>
+
+{% include news.html %}
+
+<section id="publications" aria-labelledby="publications-heading">
+  {% include publications.md %}
+</section>
+
+<section id="patents" aria-label="Patents">
+  {% capture section_content %}{% include patents.md %}{% endcapture %}
+  {{ section_content | markdownify }}
+</section>
+
+<section id="teaching" aria-label="Teaching">
+  {% capture section_content %}{% include teaching.md %}{% endcapture %}
+  {{ section_content | markdownify }}
+</section>
+
+<section id="professional-services" aria-label="Professional Services">
+  {% capture section_content %}{% include services.md %}{% endcapture %}
+  {{ section_content | markdownify }}
+</section>
+
+<section id="invited-talks" aria-label="Invited Talks">
+  {% capture section_content %}{% include talks.md %}{% endcapture %}
+  {{ section_content | markdownify }}
+</section>
+
+<section id="awards" aria-label="Awards">
+  {% capture section_content %}{% include awards.md %}{% endcapture %}
+  {{ section_content | markdownify }}
+</section>

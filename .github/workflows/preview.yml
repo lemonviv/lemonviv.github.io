@@ -1,0 +1,43 @@
+name: Build review preview
+
+on:
+  push:
+    branches: ["redesign/jon-barron"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+# This workflow intentionally cannot deploy or change GitHub Pages.
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Build with GitHub Pages dependencies
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
+      - name: Verify content, navigation and assets
+        run: bundle exec ruby tests/verify_site.rb
+      - name: Verify subpath compatibility
+        run: |
+          bundle exec jekyll build --baseurl /review --destination /tmp/review
+          bundle exec ruby tests/verify_site.rb /tmp/review /review
+      - name: Prepare standalone preview
+        run: |
+          rm -f _site/CNAME
+          echo "## Review preview" >> "$GITHUB_STEP_SUMMARY"
+          echo 'Download the **homepage-preview** artifact below, extract it, run `python3 -m http.server 8000` inside the extracted folder, then open http://localhost:8000.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'This workflow only builds and uploads files. It never deploys or changes the main GitHub Pages site.' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: homepage-preview
+          path: _site/
+          retention-days: 30

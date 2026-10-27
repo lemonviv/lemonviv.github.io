@@ -2,7 +2,7 @@
 
 The user selected a Jon Barron style academic homepage and requested implementation on an independent branch for review. Preserve all existing biography, research interests, news, publications, patents, teaching, services, talks, awards, portrait, and profile links. Do not merge or change the production Pages source.
 
-Use the existing Jekyll/GitHub Pages stack, a white background, readable sans-serif text, blue links, and a centered 860px content column. Place the biography beside the portrait on desktop and stack them on small screens. Publications are text-only; retain every field and link, including accepted papers without a PDF. Keep the existing section order.
+Use the existing Jekyll/GitHub Pages stack, a white background, readable sans-serif text, blue links, and a centered 1040px content column (widened from 860px following owner review). Place the biography beside the portrait on desktop and stack them on small screens. Publications are text-only; retain every field and link, including accepted papers without a PDF. Keep the existing section order. Highlight award names with the existing deep rust accent and bold only the quoted titles in Invited Talks.
 
 A top-right Menu disclosure links to every section. It works with keyboard input and without JavaScript. News shows the newest 10 entries in the existing reverse-chronological order, with an accessible native disclosure for the complete remaining archive. JavaScript only enhances menu dismissal.
 
